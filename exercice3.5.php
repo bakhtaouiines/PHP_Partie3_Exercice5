@@ -12,7 +12,9 @@
     <?php
     for($firstNumber = 1; $firstNumber <= 15; $firstNumber ++)
     {
-        echo ('On y arrive presque! ');
+        echo 'On y arrive presque!';?>
+        <br>
+    <?php
     }
     ?>
     </p>
